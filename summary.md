@@ -76,5 +76,6 @@ Rhotic varieties, like General American English, pronounce /r/ consistently in w
 
 _The section ends by alluding to the next topic: the syllable as a phonological unit_
 
-![Camilo Mena](https://lechia.pl/wp-content/uploads/2024/02/7-mena-234x300.png){ width="234" height="300" style="display: block; margin: 0 auto" }
+![Introduction to English Linguistics](https://libris.to/media/jacket/09369967_introduction-to-english-linguistics.jpg){ width="234" height="300" style="display: block; margin: 0 auto" }
+
 
