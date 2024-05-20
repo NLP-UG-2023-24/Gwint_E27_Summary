@@ -103,6 +103,55 @@ These texts cover phonological argumentation, phonetic fundamentals, and second 
 - Roca and Johnson (1999)
 - Spencer (1996)
 
+## Chapter 8 - Linguistics as an empirical science
+### 8.1: Introduction
+
+Chapters 1 through 7 introduced **foundational linguistics concepts** and various areas of **linguistic research**, emphasizing the analysis of **words, sentences, and utterances**. Exercises included small-scale research tasks to illustrate **empirical linguistic research methods**. The upcoming chapter shifts focus to **linguistics as an empirical science**, presenting modern **research methods** through small-scale studies in **morphology** and **syntax**. It will introduce **research questions** and essential **statistical tools** for **data analysis**, preceded by a discussion on challenges in initiating empirical studies.
+
+### 8.2: How to do empirical research in linguistics
+
+**Research** involves systematically and transparently seeking knowledge to answer specific, often unanswered questions known as **research questions**. This process starts with formulating a manageable and clear research question, which can then be broken down into smaller, investigable components. For example, Trudgill's study on language use examined how **social class** and **style** influence the choice between the **\[ɪŋ\]** and **\[ɪn\]** allomorphs of the suffix **\-ing**.
+
+To address research questions, researchers:
+
+1.  Collect and **code data**, classifying it according to relevant factors.
+2.  Analyze data **statistically** to test **hypotheses**, which are statements predicting relationships or effects.
+    *   **Null hypotheses** predict no effect and are often tested to be potentially falsified.
+
+For Trudgill, the hypothesis was that social class and style affect language use, which was supported by the data.
+
+**Data collection methods** include:
+
+*   **Linguistic corpora**: Large, structured collections of texts or speech.
+*   **Experiments**: Controlled data collection procedures.
+
+Each method has its advantages and challenges:
+
+*   Corpora offer **authentic data**.
+*   Experiments provide **specific, controlled insights**.
+
+Proper **statistical analysis** is crucial to determine whether observed patterns are meaningful or due to chance.
+
+### 8.3: A corpus-based study in morphology: 
+_who_ or _whom_, that is the question
+Chapter 4.3 explores the inflectional forms of **pronouns**, particularly focusing on third-person personal pronouns like "he" and "him." It discusses the parallels in behavior between pronoun pairs like "he/him," "she/her," "we/us," and "they/them," extending to **relative pronouns** like "who" and "whom." The chapter delves into understanding **relative clauses**, defining them as **subordinate clauses** that modify nouns and are introduced by **relative pronouns**.
+
+The text addresses the research question of when to use "**who**" versus "**whom**" in relative pronoun contexts, proposing **hypotheses** based on syntactic functions. It references grammar books like Huddleston and Pullum (2005) and Quirk et al. (1985) to glean insights into the distribution and formality of "**who**" and "**whom**."
+
+To empirically test **hypotheses**, the text suggests utilizing **corpus linguistics**, particularly the **Corpus of Contemporary American English (COCA)**. It outlines a method for searching COCA for relevant examples of **relative clauses** with "**who**" and "**whom**" as **object pronouns**. The **data collection process** involves analyzing sentences from COCA and categorizing them based on **syntactic structures** and **register classifications**.
+
+The chapter emphasizes the importance of **systematic data coding**, ensuring that only relevant examples are included in the analysis. It discusses challenges such as ambiguous interpretations and provides strategies for handling them, including the introduction of new **variables** for tracking inclusion criteria.
+
+The process of analysis begins with a spreadsheet containing **_251 observations_**, each representing a sentence from the COCA database, along with **_coded properties or measurements_**. After filtering out irrelevant observations, **_246 fully coded items_** remain for analysis.
+
+Testing hypothesis (7a) involves comparing the frequencies of the pronouns "**_who_**" and "**_whom_**" in the dataset. A statistical approach using **_chi-square testing_** is preferred over manual counting due to its efficiency and reliability. Results from **_Table 8.1_** and **_Figure 8.2_** indicate a significant difference, with "**_whom_**" being more frequent than "**_who_**".
+
+To determine the meaningfulness of this difference, **_chi-square values_** are computed, indicating the discrepancy between observed and expected frequencies. The procedure involves **_squaring the differences_** and computing proportions. A simulation experiment generates chi-square values under chance conditions, establishing the probability distribution of such values.
+
+Comparing these distributions validates the observed difference as **_highly significant_**, leading to the rejection of **_hypothesis (7a)_**. The interpretation challenges previous claims about the frequency and correctness of "**_who_**" versus "**_whom_**". Further analysis explores the relationship between pronoun usage and **_register_**, confirming **_hypothesis (7b)_** with statistical significance.
+
+In conclusion, the study provides **_substantial evidence_** against the initial hypothesis, demonstrating a preference for "**_whom_**" over "**_who_**" in object relative pronoun usage, particularly in formal contexts. Statistical tests support these findings, suggesting a consistent trend that extends beyond random variation. Future research may explore the generalizability of these results to different linguistic contexts.
+
 #### 8.4 An experimental study in syntax: the dative alternation
 
 The text outlines a study on ditransitive verbs, which take two objects, and examines the choice between two constructions: the double object construction (e.g., "She gave [the woman] [the letter]") and the prepositional object construction (e.g., "She gave [the letter] [to the woman]"). Examples from COCA and modified versions highlight these alternatives. The study aims to determine why speakers prefer one construction over the other. It posits that factors like the length of the objects and the verb type (e.g., "give" vs. "sell") influence this preference.
