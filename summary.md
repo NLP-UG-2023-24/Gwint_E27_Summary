@@ -72,9 +72,7 @@ In RP English, /r/ tends not to be pronounced in word-final positions, making it
 However, /r/ is not absent in these contexts but rather not pronounced.
 Allophones of /r/ vary depending on phonetic contexts, including [ɾ], [r], or even a zero allophone in some cases.
 The presence or absence of /r/ in various phonetic contexts can be determined through complementary distribution.
-Rhotic varieties, like General American English, pronounce /r/ consistently in word-final positions. 
-
-![Camilo Mena](https://lechia.pl/wp-content/uploads/2024/02/7-mena-234x300.png){ width="234" height="300" style="display: block; margin: 0 auto" }
+Rhotic varieties, like General American English, pronounce /r/ consistently in word-final positions.
 
 
 ### 2.5: The Syllable
